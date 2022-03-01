@@ -99,8 +99,9 @@ HOST - SUBNET  END HOST
 * | [     MAC1     ][     MAC2     ][IP1, IP2  ][          3000:80          ][GET ...         ] |
 * | [naslovi nas in usmirjevalnika ][IP naslovi][transportni sloj doda glavo][Koristni podatki] |
 
-
-
+## **NEPOVEZAVNA** omrežja in **POVEZANA** omrežja
+* **QOS** - kakovost storitev
+* UDP je manj zanesljiv
 
 
 
