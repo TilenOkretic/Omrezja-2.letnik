@@ -30,7 +30,7 @@ Za usmirjanje je odgovoren **mrežni sloj**
   
   * svetloba
 
-![](.\2022-03-08-10-10-53-image.png)
+<img src=".\2022-03-08-10-10-53-image.png">
 
 Signali so različno dinamični
 
@@ -45,11 +45,11 @@ imamo 5 bit/s torej:
     MANCHESTER KODIRANJE: 10 baud
 ```
 
-![](.\2022-03-08-10-22-58-image.png)
+<img src=".\2022-03-08-10-22-58-image.png">
 
 **Simbol** predstavlja 2 bita
 
-![](.\2022-03-08-10-23-12-image.png)
+<img src=".\2022-03-08-10-23-12-image.png">
 
 ---
 
@@ -57,7 +57,7 @@ imamo 5 bit/s torej:
 
 Kako zapistai poljuben signal z **vsoto sinusnih signalov** !!
 
-![](.\2022-03-08-10-55-57-image.png)
+<img src=".\2022-03-08-10-55-57-image.png">
 
 ---
 
@@ -111,10 +111,10 @@ $C_{max}=H*log_{2}(1 + S/N)$ [bit / s]
 
 * **visoka amplituda** = 1
   
-  ![](.\2022-03-08-11-38-00-image.png)
+  <img src=".\2022-03-08-11-38-00-image.png">
 
 ###### Frekvenčna modulacija (FSK) - FM band
-  ![](.\2022-03-08-11-43-00-image.png)
+  <img src=".\2022-03-08-11-43-00-image.png">
 
 ###### Fazna modulacija (PSK)
   <img src="./2022-03-08-11-44-00-image.png">
