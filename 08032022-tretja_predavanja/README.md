@@ -12,4 +12,14 @@ Za usmirjanje je odgovoren **mrežni sloj**
 
 # Fizični sloj
 
+* kabel
+  
+  * optični
+  
+  * električni
+    
+    * parica: kabel, ki ima dve ali štiri žili, ki sta med seboj prepleteni
+    
+    * koaksialni kabli
+
 
