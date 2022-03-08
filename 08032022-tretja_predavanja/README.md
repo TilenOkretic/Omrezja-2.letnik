@@ -114,11 +114,55 @@ $C_{max}=H*log_{2}(1 + S/N)$ [bit / s]
   <img src=".\2022-03-08-11-38-00-image.png">
 
 ###### Frekvenčna modulacija (FSK) - FM band
-  <img src=".\2022-03-08-11-43-00-image.png">
+
+<img src=".\2022-03-08-11-43-00-image.png">
 
 ###### Fazna modulacija (PSK)
-  <img src="./2022-03-08-11-44-00-image.png">
+
+<img src="./2022-03-08-11-44-00-image.png">
+
+---
+
+V računalnistvu sta najbolj uporabni AMPLITUDNA in FAZNA MODULACIJA
+
+* lahko celo uporabimo obe hkrati
 
 ---
 
 ## Konstelacijski diagrami
+
+<img src="./2022-03-08-11-49-00-image.png">
+
+---
+
+## Multipleksiranje
+
+* Ko si vec ljudi posilja podatke
+
+* Skupno vozlišče
+
+* Ena žica je speljana vmes
+
+* Multipleksiranje delimo na:
+  
+  * časovno multipleksiranje
+    
+    * razrežemo signale po času
+    
+    * odločimo se koliko bitov posiljamo hkrati 
+    
+    <img title="" src="./2022-03-08-11-50-00-image.png" alt="" width="427">
+  
+  * frekvenčno multipleksiranje
+    
+    * sestejemo signale
+    
+    * dobimo nek signal, ki je preslikav vse prejsnje signale na višje frekvenčne prostore
+    
+    <img src="./2022-03-08-11-51-00-image.png">
+  
+  * valovno multipleksiranje
+    
+    * preko optičnega kabla
+    
+    * imamo svetlobo različnih barv (različnih valovnih dolžin)
