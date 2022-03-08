@@ -32,7 +32,7 @@ Za usmirjanje je odgovoren **mrežni sloj**
 
 
 
-<img title="" src="file:///C:/Users/tilen/AppData/Roaming/marktext/images/2022-03-08-10-10-53-image.png" alt="" width="452">
+![](./2022-03-08-10-10-53-image.png")
 
 Signali so različno dinamični
 
@@ -48,11 +48,11 @@ imamo 5 bit/s torej:
 
 ```
 
-![](C:\Users\tilen\AppData\Roaming\marktext\images\2022-03-08-10-22-58-image.png)
+![](.\2022-03-08-10-22-58-image.png)
 
 **Simbol** predstavlja 2 bita
 
-![](C:\Users\tilen\AppData\Roaming\marktext\images\2022-03-08-10-23-12-image.png)
+![](.\2022-03-08-10-23-12-image.png)
 
 ---
 
@@ -60,7 +60,7 @@ imamo 5 bit/s torej:
 
 Kako zapistai poljuben signal z **vsoto sinusnih signalov** !!
 
-![](C:\Users\tilen\AppData\Roaming\marktext\images\2022-03-08-10-55-57-image.png)
+![](.\2022-03-08-10-55-57-image.png)
 
 
 
