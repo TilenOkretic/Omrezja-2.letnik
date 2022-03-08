@@ -71,15 +71,11 @@ $C_{max}=2*H*log_{2}V$ [$bit/s$]
 
 * $V$             je število signalnih nivojev 
 
-
-
 Na signal, ki gre po kanalu vplivajo **motnje**
 
 $U_{out} == f_{1}*(U_{in}) + f_{2}*(motnje)$
 
 * $f_{2}*(motnje)$  =~ T
-
-
 
 **Rzmerje signal-šum** $S/N$
 
@@ -104,3 +100,25 @@ $S/N$        [dB]
 $C_{max}=H*log_{2}(1 + S/N)$ [bit / s]
 
 * S/N je razmerje => nima enote
+
+---
+
+## Prenos podatkov v višjih frekvenčnih pasovih
+
+###### Aplitudna modulacija (ASK) - AM band
+
+* **nizka amplituda**   = 0
+
+* **visoka amplituda** = 1
+  
+  ![](.\2022-03-08-11-38-00-image.png)
+
+###### Frekvenčna modulacija (FSK) - FM band
+  ![](.\2022-03-08-11-43-00-image.png)
+
+###### Fazna modulacija (PSK)
+  <img src="./2022-03-08-11-44-00-image.png">
+
+---
+
+## Konstelacijski diagrami
