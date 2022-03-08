@@ -30,9 +30,7 @@ Za usmirjanje je odgovoren **mrežni sloj**
   
   * svetloba
 
-
-
-![](./2022-03-08-10-10-53-image.png")
+![](.\2022-03-08-10-10-53-image.png)
 
 Signali so različno dinamični
 
@@ -45,7 +43,6 @@ imamo 5 bit/s torej:
     NRZ-L: 5 baud
     NRZI-I: 5 baud
     MANCHESTER KODIRANJE: 10 baud
-
 ```
 
 ![](.\2022-03-08-10-22-58-image.png)
@@ -62,42 +59,48 @@ Kako zapistai poljuben signal z **vsoto sinusnih signalov** !!
 
 ![](.\2022-03-08-10-55-57-image.png)
 
+---
+
+## Nyquistov teorem
+
+$f_{vz}>2*f_{max}$
+
+$C_{max}=2*H*log_{2}V$ [$bit/s$]
+
+* $log_{2}V$     je število $bitov / simbol$
+
+* $V$             je število signalnih nivojev 
 
 
 
+Na signal, ki gre po kanalu vplivajo **motnje**
+
+$U_{out} == f_{1}*(U_{in}) + f_{2}*(motnje)$
+
+* $f_{2}*(motnje)$  =~ T
 
 
 
+**Rzmerje signal-šum** $S/N$
 
+* obi;ajno ga podajamo v **dB** - decibelih
 
+$S/N$        [dB]
 
+   10             10
 
+  100            20
 
+ 1000           30
 
+     .                .
 
+     .                .
 
+----
 
+## Shannonovo pravilo
 
+$C_{max}=H*log_{2}(1 + S/N)$ [bit / s]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* S/N je razmerje => nima enote
