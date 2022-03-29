@@ -1,12 +1,14 @@
 # Linijski sloj:
 
-Nlegov namen je:
+Nlegov namen je: Zanesljiva komunikacija med dvema vozliscama (napravama):
 
 * Okvirjanje
 
 * Nadzor nad napakami
 
-* Zanesljiva komunikacija med dvema vozliscama (napravama)
+* Nadzor pretoka
+
+* MAX - Medium Access Control; ni isto kot MAC naslov 
 
 Operacije na linijskem sloju:
 
