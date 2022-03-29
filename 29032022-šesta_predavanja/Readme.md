@@ -133,8 +133,6 @@ Pošiljanje enega in istega okvirja izračunamo:
 
 * $k-1 = \frac {p} {1-p}$
 
-
-
 $E_p = \frac {T_P} {T_F + T_A + 2 * T_Z + \frac {p} {1-p} * (T_0 + T_F)}$
 
 Primer:
@@ -154,8 +152,6 @@ L = 128 km
 v = 200000 km / s
 
 $T_0$ = 2 $T_z$ + $T_A$
-
-
 
 $T_D = D / C$
 
