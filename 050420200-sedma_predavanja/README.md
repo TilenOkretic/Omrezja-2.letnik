@@ -80,8 +80,6 @@ Najbolj posogst                                �
 
 # NADZOR DOSTOPA DO PRENOSNEGA SREDSTVA (MAC)
 
----
-
 ## Težave MULTIPLEKSIRANJA
 
 * uporabniki imajo različne zahtve (nalaganje HTML / prenos velike datoteke)
